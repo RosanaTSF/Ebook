@@ -19,6 +19,8 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
+(file:///C:/Users/rosan/OneDrive/%C3%81rea%20de%20Trabalho/Ebook.pdf)
+
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
