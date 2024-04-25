@@ -6,6 +6,7 @@
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+[Ebook] (https://www.linkedin.com/posts/rosanatsf_ebook-author-rosanatsf-activity-7189332893486223361-kZ1C?utm_source=share&utm_medium=member_desktop)
 
 -------
 
@@ -22,7 +23,6 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-Autor original:
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -51,6 +51,7 @@ Copilot：
 - Conteúdo gerado via ChatGPT.
 - Imagens geradas via Copilot.
 - Logo salvo via Pinterest.
+- Criação via PowerPoint. 
 
 ## 📚 Materiais
 
