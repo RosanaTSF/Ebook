@@ -19,7 +19,7 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-[link](file:///C:/Users/rosan/OneDrive/%C3%81rea%20de%20Trabalho/Ebook.pdf)
+[link](https://www.linkedin.com/posts/rosanatsf_ebook-author-rosanatsf-activity-7189332893486223361-kZ1C?utm_source=share&utm_medium=member_desktop)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
