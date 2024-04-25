@@ -85,6 +85,4 @@ RosanaTSF">LinkedIn</a>
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
 e [Rosana TSF] (https://github.com/RosanaTSF)
